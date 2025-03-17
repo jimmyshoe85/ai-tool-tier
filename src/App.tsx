@@ -69,7 +69,13 @@ const TOOL_CATEGORIES: ToolCategory[] = [
       { id: 'vercel', name: 'Vercel', image: 'icons/dev/vercel.png' },
       { id: 'amplify', name: 'AWS Amplify', image: 'icons/dev/aws_amplify.png' },
       { id: 'lambda', name: 'Lambda', image: 'icons/dev/lambda.png' },
-      { id: 'github', name: 'GitHub', image: 'icons/dev/github.png' }
+      { id: 'github', name: 'GitHub', image: 'icons/dev/github.png' },
+      { id: 'lambda', name: 'Lambda', image: 'icons/dev/deepseek.png' },
+      { id: 'lambda', name: 'Lambda', image: 'icons/dev/manus.png' },
+      { id: 'lambda', name: 'Lambda', image: 'icons/dev/notebookllm.png' },
+      { id: 'lambda', name: 'Lambda', image: 'icons/dev/opusclip.png' },
+      { id: 'lambda', name: 'Lambda', image: 'icons/dev/pydanticai.png' },
+      { id: 'lambda', name: 'Lambda', image: 'icons/dev/napin-ai.png' }
     ]
   },
   {
@@ -183,6 +189,7 @@ const TOOL_CATEGORIES: ToolCategory[] = [
       { id: 'minimax', name: 'MiniMax', image: 'icons/video/minimax.png' },
       { id: 'pikalabs', name: 'Pika Labs', image: 'icons/video/pikalabs.png' },
       { id: 'runway', name: 'Runway', image: 'icons/video/runway.png' },
+      { id: 'lambda', name: 'Lambda', image: 'icons/video/opusclip.png' },
       { id: 'soro', name: 'Soro', image: 'icons/video/soro.png' }
     ]
   },
