@@ -70,12 +70,12 @@ const TOOL_CATEGORIES: ToolCategory[] = [
       { id: 'amplify', name: 'AWS Amplify', image: 'icons/dev/aws_amplify.png' },
       { id: 'lambda', name: 'Lambda', image: 'icons/dev/lambda.png' },
       { id: 'github', name: 'GitHub', image: 'icons/dev/github.png' },
-      { id: 'lambda', name: 'Lambda', image: 'icons/dev/deepseek.png' },
-      { id: 'lambda', name: 'Lambda', image: 'icons/dev/manus.png' },
-      { id: 'lambda', name: 'Lambda', image: 'icons/dev/notebookllm.png' },
-      { id: 'lambda', name: 'Lambda', image: 'icons/dev/opusclip.png' },
-      { id: 'lambda', name: 'Lambda', image: 'icons/dev/pydanticai.png' },
-      { id: 'lambda', name: 'Lambda', image: 'icons/dev/napin-ai.png' }
+      { id: 'deepseek', name: 'DeepSeek', image: 'icons/dev/deepseek.png' },
+      { id: 'manus', name: 'Manus', image: 'icons/dev/manus.png' },
+      { id: 'notebookllm', name: 'Notebookllm', image: 'icons/dev/notebookllm.png' },
+      { id: 'opusclip', name: 'OpusClip', image: 'icons/dev/opusclip.png' },
+      { id: 'pydanticai', name: 'PydanticAI', image: 'icons/dev/pydanticai.png' },
+      { id: 'napkinai', name: 'NapkinAI', image: 'icons/dev/napkin-ai.png' }
     ]
   },
   {
@@ -189,7 +189,7 @@ const TOOL_CATEGORIES: ToolCategory[] = [
       { id: 'minimax', name: 'MiniMax', image: 'icons/video/minimax.png' },
       { id: 'pikalabs', name: 'Pika Labs', image: 'icons/video/pikalabs.png' },
       { id: 'runway', name: 'Runway', image: 'icons/video/runway.png' },
-      { id: 'lambda', name: 'Lambda', image: 'icons/video/opusclip.png' },
+      { id: 'opusclip', name: 'OpusClicp', image: 'icons/video/opusclip.png' },
       { id: 'soro', name: 'Soro', image: 'icons/video/soro.png' }
     ]
   },
